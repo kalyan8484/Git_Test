@@ -1,0 +1,8 @@
+git status
+git init
+git add .
+git commit -m "Text"
+git pull origin main
+git branch -M main
+git remote add origin gitURL
+git push -u origin main
